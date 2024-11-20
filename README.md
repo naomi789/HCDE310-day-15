@@ -1,5 +1,5 @@
 # HCDE310-day-15
-For today's assignment, please: 
+For today's in-class assignment, please: 
 1. Instead of looping through all the fruit, change the code in `app.py` so it only displays
  - Fruit that starts with the letter “o” AND you have less than 3 of
 2. Edit the `.gitignore` file so you ignore `keys.py`
